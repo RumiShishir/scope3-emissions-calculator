@@ -191,12 +191,10 @@ Feedback and suggestions are welcome, especially from professionals in:
 
 ---
 
-## License
-
-MIT License (or specify your preferred license)
 
 ---
 
 ## Author
 
+COPYRIGHT Abdullah Rumi Shishir©
 Developed as part of a learning and prototyping exercise in Scope 3 emissions accounting and interactive tool development.
