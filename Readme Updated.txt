@@ -209,3 +209,8 @@ This dashboard allows users to:
 ---
 
 ## File Structure (Suggested)
+
+## Author
+
+COPYRIGHT© Abdullah Rumi Shishir
+Developed as part of a learning and prototyping exercise in Scope 3 emissions accounting and interactive tool development.
