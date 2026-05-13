@@ -1,0 +1,6 @@
+Item,Quantity_kg,EmissionFactor_kgCO2e_per_kg,Supplier
+Cement,200000,0.15,SupplierC
+Plaster,600000,0.10,SupplierD
+Paint,200000,0.10,SupplierE
+Timber,100000,0.25,SupplierF
+Concrete,50000,0.20,SupplierG

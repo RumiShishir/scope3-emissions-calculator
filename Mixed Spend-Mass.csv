@@ -1,0 +1,16 @@
+Item,Type,Quantity_kg,Spend_USD,EF_kgCO2e_per_kg,EF_kgCO2e_per_USD
+Hard drive,mass,400,,20,
+Integrated circuits,mass,200,,10,
+LCD,mass,500,,40,
+Semiconductors,mass,100,,70,
+Battery,mass,1500,,3,
+Keyboard,mass,300,,3,
+Plastic PS,spend,,,5000,0.3
+Plastic ABS,spend,,,3000,0.3
+PET film,spend,,,4000,0.3
+Aluminium,spend,,,6000,0.5
+Steel,spend,,,1500,0.2
+Cyclohexane,spend,,,5000,0.2
+Epoxy resin,spend,,,5000,0.3
+Copper,spend,,,1000,0.3
+Glass,spend,,,5000,0.4

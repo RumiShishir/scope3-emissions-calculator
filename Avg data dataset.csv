@@ -1,0 +1,6 @@
+Item,Quantity,Unit,EmissionFactor_kgCO2e_per_unit
+Steel,1000,kg,2.1
+Aluminium,500,kg,8.5
+Plastic,2000,kg,3.2
+Glass,800,kg,1.4
+Paper,1500,kg,0.9
